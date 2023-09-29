@@ -2,7 +2,7 @@ import java.util.Scanner;
 import static java.lang.Math.pow;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Wielomian");//a
+        System.out.println("Wielomian");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj stopień wielomianu");
         int arraySize = scanner.nextInt();
